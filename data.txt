@@ -1,0 +1,43 @@
+{
+  "top10DestinationAddress" : {
+    "ops.inside.local" : 215,
+    "255.255.255.255" : 182,
+    "111.22.22.101" : 163,
+    "d3.inside.local" : 145,
+    "bay.inside.local" : 136,
+    "acc.inside.local" : 108,
+    "top.inside.local" : 96,
+    "0.0.0.0" : 88,
+    "g1.inside.local_192.168.1.1" : 88,
+    "111.22.22.154" : 86
+  },
+  "top10SourceAddress" : {
+    "basement.inside.local" : 806,
+    "239.255.255.250" : 503,
+    "WIFI_192.168.1.111" : 158,
+    "255.255.255.255" : 88,
+    "R_111.22.22.102" : 78,
+    "111.22.22.255" : 77,
+    "224.0.0.251" : 50,
+    "ospf-all.mcast.net" : 38,
+    "ospf-dsig.mcast.net" : 38,
+    "WIFI_192.168.1.222" : 24
+  },
+  "top3ProtocolNumber" : {
+    "" : 870,
+    "17" : 845,
+    "89" : 105
+  },
+  "top1010ApplicationName" : {
+    "" : 1059,
+    "SSDP" : 289,
+    "SNS Quote" : 179,
+    "Connected Corp" : 162,
+    "Remote Replication Agent Connection" : 91,
+    "Bootstrap Protocol Server" : 48,
+    "Multicast DNS" : 28,
+    "NETBIOS Datagram Service" : 7,
+    "NETBIOS Name Service" : 4,
+    "SNMP" : 3
+  }
+}
